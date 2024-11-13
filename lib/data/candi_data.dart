@@ -1,7 +1,7 @@
 import 'package:wisatacandipuspita/models/candi.dart';
 
 var candiList = [
-  Candi(
+  Candi (
     name: 'Candi Borobudur',
     location: 'Magelang, Jawa Tengah',
     description:
